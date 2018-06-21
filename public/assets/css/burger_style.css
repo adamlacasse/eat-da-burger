@@ -1,0 +1,14 @@
+body {
+	background-color: #FFA500;
+	margin-top: 20px;
+}
+
+img {
+	width: 400px;
+	height: auto;
+}
+
+/* #uneaten{
+	background-image: url("../img/hungry.jpg");
+	background-repeat: no-repeat;
+} */
